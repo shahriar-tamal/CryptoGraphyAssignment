@@ -1,7 +1,7 @@
 # CryptoGraphyAssignment
 The assignment for cryptography course
 
-message: iamspy
-key: abcdef
-encryption: UNAHFP;
-decryption: iamspy
+message: iamspy <br>
+key: abcdef <br>
+encryption: UNAHFP; <br>
+decryption: iamspy <br>
